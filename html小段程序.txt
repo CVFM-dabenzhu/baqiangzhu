@@ -20,7 +20,757 @@
 		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
 		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
 		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
-		
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvbgn=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		fdhgbfbvzxcbczxvb
 
 		<UL>
 		<LI>学习步奏
