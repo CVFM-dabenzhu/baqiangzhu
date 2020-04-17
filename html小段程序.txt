@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<tietle>第一篇</title>
+	</head>
+	 <body bgcolor=blue>#颜色值在000000至FFFFFF
+	 <body background='src'>#src 为图片存放地址
+		<h1>字体大小1-6</h1>
+		<h2 align=left>文本对齐方式 left 和 center 和 righ</h2>
+		换行标记<br>
+		<nobr>为关闭换行标记</nobr>
+		<pre>不进行修改时候的换行</pre>
+		<strong>粗体符号</strong>	<b>粗体</b>
+		<em>斜体</em> <i>斜体</i> <cite>斜体</cite>
+		<u>底线标记</u>
+		<strike>删除线标记</strike>
+		<blink>文字闪烁</blink>
+		<sup>上标标记</sup>
+		<sub>下标标记</sub>
+		<font size=1>字体大小1-7</font>
+		<font color=blue>颜色值在000000至FFFFFF（十六进制）</font>
+		&QUOT100&GT;5&QUOT&AMP; #&QUOT代表上标号，&AMP代表和&；&GT代表>大于号
+		&QUOT500&LT;1000&QUOT都是实施	#&LT代表<小于号
+		
+
+		<UL>
+		<LI>学习步奏
+			<UL>
+			<LI>数字标号形式
+				 <OL># 数字形式
+			<LI>数字1
+			<LI>数字2
+			<LI>数字3
+				</OL>
+			<LI><字母表达形式>
+				<OL type=a> #type可以是数字也可以是大小写字母
+			<LI>字母a
+			<LI>字母b
+			<LI>字母c
+				</OL>
+			</UL>
+			<DL>
+			<DT>说明符号<DD>别玩上一句下一句空2格进行说明
+			</DL>	
+		</UL>
+		
+		<table border=3>
+		<tr><th>文字表达1</th><th>文字表达2</th><th>文字表达3</th></tr>
+		<tr><td>单元格标记1</td><td>单元格标记2</td><td>单元格标记3</td></tr>
+		#tr代表行的数量
+		</table>
+		<table border=6>#功能设置表格边线的宽度
+		<table border=6 width=30>#设定表格的宽度，有两种绝对方式和相对方式组成300与80%
+		<table cellspcaing = 1>...</table>#功能设置框线厚度
+		<table cellpadding=1>...</table>#功能设置数据与边框的距离
+		<table bgcolor=blue >...</table>#功能设置单元格的背景颜色
+		#以上的单位均为pixel 像素点。
+		
+		<th width =100>单元格的宽度</th>
+		<th height =30>单元格的高度</th>
+		<th align = left>设定单元格中内容的水平对齐方式只有三种方式 left center right </th>
+		<th valign =top>设定单元格中内容的垂直对齐方式 只有三种方式top middle low</th>
+		<th bgcolor =blue>设定单元格的背景颜色</th>
+		<th nowrap>强制不进行换行</th>
+		<td colspan=3>合并三个水平格</td>
+		<td rowspan =2>合并2个垂直格</td>
+		<caption>标题居中显示，并且字体加粗
+		#图片嵌入属性
+		<img scr='图片的路径' width设定图片的显示宽度，值可以用数字或百分比；
+				  height设定图片的显示高度，值可以是数字或百分比；
+				  hspace设定图片在浏览器中显示的水平位置，值为数字，默认为0；
+				  vspace设定图片在浏览器中显示的垂直位置，值为数字，默认为0
+				  border 设定图片的边框宽度，值为数字，默认为0
+				  align设定与图片相邻文字对图片的相对位置，选项分为1；top middle buttom 三种居中方式；2，left或者right文字向左或向右对齐
+		  		  alt对图片进行说明
+		例子：<img src ='URL' align=right border=10 alt = '这是图片的实例，右对齐，边框宽度为10像素 '>>
+		
+
+	</body>
+</html>
