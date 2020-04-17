@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<tietle>第一篇</title>
+		<tietle>第一篇，八强是头猪</title>
 	</head>
 	 <body bgcolor=blue>#颜色值在000000至FFFFFF
 	 <body background='src'>#src 为图片存放地址
